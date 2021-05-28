@@ -1,0 +1,11 @@
+{
+	"name": "AntFTX",
+	"exchange_id": "ftx",
+	"api-keys": "",
+	"api-secret-key" : "",
+	"rules1": {
+		"symbol": "MATIC/USD",
+		"timeframe": 60,
+		"diff": 0.02 
+	}
+}
